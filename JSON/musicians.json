@@ -1,0 +1,220 @@
+{
+    "Plant": {
+        "id": "Plant",
+        "name": "Robert Plant",
+        "description": "Robert Anthony Plant (born 20 August 1948) is an English singer and songwriter. He was the lead singer and lyricist of the rock band Led Zeppelin from its founding in 1968 until their breakup in 1980; since then he has had a successful solo career, sometimes collaborating with other artists such as Alison Krauss. Regarded by many as one of the greatest singers in rock music, he is known for his flamboyant persona and raw stage performances."
+    },
+    "Page": {
+        "id": "Page",
+        "name": "Jimmy Page",
+        "description": "James Patrick Page (born 9 January 1944) is an English musician and producer who achieved international success as the guitarist and founder of the rock band Led Zeppelin. Prolific in creating guitar riffs, Page’s style involves various alternative guitar tunings and melodic solos, coupled with aggressive, distorted guitar tones. It is also characterized by his folk and eastern-influenced acoustic work. He is notable for occasionally playing his guitar with a cello bow to create a droning sound texture to the music."
+    },
+    "Jones": {
+        "id": "Jones",
+        "name": "John Paul Jones",
+        "description": "John Baldwin (born 3 January 1946), better known by his stage name John Paul Jones, is an English musician, composer, and record producer who was the bassist and keyboardist for the rock band Led Zeppelin. Prior to forming the band with Jimmy Page in 1968, he was a session musician and arranger. After the death of drummer John Bonham in 1980, Led Zeppelin disbanded, and Jones developed a solo career. He has collaborated with musicians across a variety of genres, including the supergroup Them Crooked Vultures with Dave Grohl and Josh Homme, and Alain Johannes. He was inducted into the Rock and Roll Hall of Fame in 1995 as a member of Led Zeppelin."
+    },
+    "Bonham": {
+        "id": "Bonham",
+        "name": "John Bonham",
+        "description": "John Henry Bonham (31 May 1948 – 25 September 1980) was an English musician who was the drummer of the rock band Led Zeppelin. Noted for his speed, power, fast single-footed kick drumming, distinctive sound, and feel for groove, he is regarded as one of the greatest and most influential drummers in music history."
+    },
+    "Gilmour": {
+        "id": "Gilmour",
+        "name": "David Gilmour",
+        "description": "David Jon Gilmour (born 6 March 1946) is an English guitarist, singer and songwriter, who is a member of the rock band Pink Floyd. He joined as guitarist and co-lead vocalist in 1967, shortly before the departure of founding member Syd Barrett. Pink Floyd achieved international success with the concept albums The Dark Side of the Moon (1973), Wish You Were Here (1975), Animals (1977), The Wall (1979) and The Final Cut (1983). By the early 1980s, they had become one of the highest-selling and most acclaimed acts in music history; by 2012, they had sold more than 250 million records worldwide, including 75 million in the United States. Following the departure of Roger Waters in 1985, Pink Floyd continued under Gilmour's leadership and released three more studio albums."
+    },
+    "Waters": {
+        "id": "Waters",
+        "name": "Roger Waters",
+        "description": "George Roger Waters (born 6 September 1943) is an English musician and singer-songwriter. In 1965, he co-founded the rock band Pink Floyd as the bassist. Following the departure of the songwriter, Syd Barrett, in 1968, Waters became Pink Floyd's lyricist, co-lead vocalist and conceptual leader until his departure in 1985."
+    },
+    "Mason": {
+        "id": "Mason",
+        "name": "Nick Mason",
+        "description": "Nicholas Berkeley Mason (born 27 January 1944) is an English drummer and a founder member of the progressive rock band Pink Floyd. He has been the only constant member since the band's formation in 1964, and is the only member to appear on every Pink Floyd album. He co-wrote Pink Floyd compositions including Echoes, Time, Careful with That Axe, Eugene, and One of These Days. In 2018, he formed a new band, Nick Mason's Saucerful of Secrets, to perform music from Pink Floyd's early years. He was inducted into the Rock and Roll Hall of Fame in 1996 as a member of Pink Floyd."
+    },
+    "Wright": {
+        "id": "Wright",
+        "name": "Richard Wright",
+        "description": "Richard William Wright (28 July 1943 – 15 September 2008) was an English musician who co-founded the progressive rock band Pink Floyd. He played keyboards and sang, appearing on almost every Pink Floyd album and performing on all their tours. He was inducted into the Rock and Roll Hall of Fame in 1996 as a member of Pink Floyd."
+    },
+    "Lennon": {
+        "id": "Lennon",
+        "name": "John Lennon",
+        "description": "John Winston Ono Lennon (born John Winston Lennon; 9 October 1940 – 8 December 1980) was an English singer, songwriter, musician and peace activist who gained worldwide fame as the founder, co-songwriter, co-lead vocalist and rhythm guitarist of the Beatles. Lennon's work included music, writing, drawings, and film. His songwriting partnership with Paul McCartney remains the most successful in history."
+    },
+    "McCartney": {
+        "id": "McCartney",
+        "name": "Paul McCartney",
+        "description": "Sir James Paul McCartney (born 18 June 1942) is an English singer, songwriter and musician who gained worldwide fame with the Beatles, for whom he played bass guitar and shared primary songwriting and lead vocal duties with John Lennon. One of the most successful composers and performers of all time, McCartney is known for his melodic approach to bass-playing, versatile and wide tenor vocal range, and musical eclecticism, exploring genres ranging from pre–rock and roll pop to classical, ballads, and electronica. His songwriting partnership with Lennon is the most successful in modern music history."
+    },
+    "Harrison": {
+        "id": "Harrison",
+        "name": "George Harrison",
+        "description": "George Harrison (25 February 1943 – 29 November 2001) was an English musician, singer and songwriter who achieved international fame as the lead guitarist of the Beatles. Sometimes called -the quiet Beatle-, Harrison embraced Indian culture and helped broaden the scope of popular music through his incorporation of Indian instrumentation and Hindu-aligned spirituality in the Beatles' work. Although the majority of the band's songs were written by John Lennon and Paul McCartney, most Beatles albums from 1965 onwards contained at least two Harrison compositions. His songs for the group include Taxman, Within You Without You, While My Guitar Gently Weeps, Here Comes the Sun and Something. Harrison's earliest musical influences included George Formby and Django Reinhardt; subsequent influences were Carl Perkins, Chet Atkins and Chuck Berry."
+    },
+    "Starr": {
+        "id": "Starr",
+        "name": "Ringo Starr",
+        "description": "Sir Richard Starkey (born 7 July 1940), known professionally as Ringo Starr, is an English musician, songwriter and actor who achieved international fame as the drummer for the Beatles. Starr occasionally sang lead vocals with the group, usually for one song on each album, including Yellow Submarine and With a Little Help from My Friends. He also wrote and sang the Beatles songs Don't Pass Me By and Octopus's Garden, and is credited as a co-writer of four others."
+    },
+    "Cobain": {
+        "id": "Cobain",
+        "name": "Kurt Cobain",
+        "description": "Kurt Donald Cobain (February 20, 1967 – April 5, 1994) was an American musician who was the co-founder, lead vocalist, guitarist and primary songwriter of the rock band Nirvana. Through his angst-fueled songwriting and anti-establishment persona, Cobain's compositions widened the thematic conventions of mainstream rock. He was heralded as a spokesman of Generation X and is highly recognized as one of the most influential alternative rock musicians."
+    },
+    "Novoselic": {
+        "id": "Novoselic",
+        "name": "Krist Novoselic",
+        "description": "Krist Anthony Novoselic (born May 16, 1965) is an American musician and activist. He was the bassist and a co-founder of the rock band Nirvana. Novoselic and Kurt Cobain formed the band Nirvana in 1987 along with drummer Aaron Burckhard, whom they recruited.Through the late 1980s, Nirvana established themselves as part of the Seattle grunge scene and in 1989 they released their debut album Bleach. Nirvana went through a succession of drummers until 1990, when Dave Grohl joined after his former band Scream broke up. After signing with major record label DGC Records, Nirvana released their second studio album Nevermind in 1991. The band achieved worldwide fame through the success of Nevermind and the lead track off the album, Smells Like Teen Spirit. Nirvana released In Utero in 1993, their third studio album, which was also a major success. Nirvana abruptly ended in 1994 following the death of Kurt Cobain"
+    },
+    "Grohl": {
+        "id": "Grohl",
+        "name": "Dave Grohl",
+        "description": "David Eric Grohl (born January 14, 1969) is an American musician. He is the founder of the rock band Foo Fighters, for which he is the lead singer, guitarist, and principal songwriter. Prior to forming Foo Fighters, he was the drummer of Nirvana from 1990 to 1994. At 17, Grohl joined the punk rock band Scream after the departure of their drummer Kent Stax. Grohl became the drummer for Nirvana after Scream broke up in 1990. Nirvana's second album, Nevermind (1991), was the first to feature Grohl on drums and became a worldwide success. After Nirvana disbanded following the death of lead singer Kurt Cobain in April 1994, Grohl formed Foo Fighters as a one-man project. The first Foo Fighters album was released in 1995, and a full band was assembled to tour and record under the Foo Fighters name; they have released 11 studio albums."
+    },
+    "Cornell": {
+        "id": "Cornell",
+        "name": "Chris Cornell",
+        "description": "Christopher John Cornell (July 20, 1964 – May 18, 2017) was an American singer, songwriter and musician best known as the lead vocalist, rhythm guitarist, and primary lyricist for the rock bands Soundgarden and Audioslave. He also had a solo career and contributed to numerous movie soundtracks. Cornell was the founder and frontman of Temple of the Dog, a one-off tribute band dedicated to his late friend Andrew Wood. Several music journalists, fan polls and fellow musicians have regarded Cornell as one of the greatest rock singers of all time."
+    },
+    "Thayil": {
+        "id": "Thayil",
+        "name": "Kim Thayil",
+        "description": "Kim Thayil (born September 4, 1960) is an American musician best known as the lead guitarist of the Seattle-based rock band Soundgarden, which he co-founded with singer Chris Cornell and bassist Hiro Yamamoto in 1984. Cornell and Thayil remained as the original members of the band until Cornell's death in 2017, and the band's subsequent split in 2018. Thayil was named the 100th greatest guitarist of all time by Rolling Stone in 2010, and the 67th greatest guitarist of all time by SPIN in 2012. Thayil has won two Grammy Awards as a member of Soundgarden."
+    },
+    "Cameron": {
+        "id": "Cameron",
+        "name": "Matt Cameron",
+        "description": "Matthew David Cameron (born November 28, 1962) is an American musician who is the drummer for the rock band Pearl Jam. He first gained fame as the drummer for Seattle-based rock band Soundgarden, which he joined in 1986. He appeared on each of the band's studio albums until its break-up in 1997. In 1998, Cameron was invited to join Pearl Jam's U.S. Yield Tour and then became a permanent member of the band. In 2010, Cameron became simultaneously a member of Pearl Jam and the reunited Soundgarden. He remained with Soundgarden until its disbandment after the death of lead singer Chris Cornell in 2017. Cameron, along with guitarist Kim Thayil and Cornell, is one of three members to feature on every Soundgarden studio album."
+    },
+    "Shepherd": {
+        "id": "Shepherd",
+        "name": "Ben Shepherd",
+        "description": "Hunter Benedict Shepherd (born September 20, 1968) is an American musician best known as the bassist of rock band Soundgarden. Shepherd has won two Grammy Awards as a member of Soundgarden. Born in Okinawa, Shepherd grew up in Washington and developed an interest in music after watching Johnny Cash on TV. He played in various punk-rock bands and eventually joined Soundgarden as a bassist in 1990. Shepherd contributed to the band's musical evolution and played a significant role in songwriting. In 1993, he formed a side project, Hater, with Matt Cameron and John McBain. Soundgarden broke up in 1997, leading Shepherd to struggle with addiction and personal issues. He played in various bands before Soundgarden reunited in 2010, continuing until Chris Cornell's death in 2017."
+    },
+    "Strummer": {
+        "id": "Strummer",
+        "name": "Joe Strummer",
+        "description": "John Graham Mellor (21 August 1952 – 22 December 2002), known professionally as Joe Strummer, was a British singer-songwriter and musician. He was the co-founder, lyricist, rhythm guitarist and co-lead vocalist of punk rock band the Clash, formed in 1976. The Clash's second studio album Give 'Em Enough Rope (1978) reached No. 2 on the UK charts. Soon after, they achieved success in the US, starting with London Calling (1979) and peaking with Combat Rock (1982), which reached No. 7 on the US charts and was certified 2× platinum there. The Clash's explosive political lyrics, musical experimentation, and rebellious attitude had a far-reaching influence on rock music in general, especially alternative rock. Their music incorporated reggae, ska, dub, funk, rap, and rockabilly."
+    },
+    "Mick Jones": {
+        "id": "Mick Jones",
+        "name": "Mick Jones",
+        "description": "Michael Geoffrey Jones (born 26 June 1955) is a British musician, singer, songwriter, and record producer best known as the co-founder of the Clash, and as that group's guitarist until 1983. In 1984, he formed Big Audio Dynamite with Don Letts. Jones has played with the band Carbon/Silicon along with Tony James (formerly of Generation X and Sigue Sigue Sputnik) since 2002 and was part of the Gorillaz live band for a world tour in 2010–2011. In late 2011, Jones collaborated with Pete Wylie and members of the Farm to form the Justice Tonight Band."
+    },
+    "Simonon": {
+        "id": "Simonon",
+        "name": "Paul Simonon",
+        "description": "Paul Gustave Simonon (born 15 December 1955) is an English musician and artist best known as the bassist for the Clash. More recent work includes his involvement in the supergroup the Good, the Bad & the Queen and playing on the Gorillaz album Plastic Beach in 2010, which saw Simonon reunite with The Clash guitarist Mick Jones and Blur frontman Damon Albarn – and which also led to Simonon becoming the live band's touring bassist for Gorillaz's Escape to Plastic Beach Tour. Simonon is also an established visual artist."
+    },
+    "Headon": {
+        "id": "Headon",
+        "name": "Topper Headon",
+        "description": "Nicholas Bowen (Topper) Headon (born 30 May 1955) is an English drummer and multi-instrumentalist, best known as the drummer of punk rock band the Clash. Known for his contributions to the drumming world, Headon was inducted in the Rock and Roll Hall of Fame with the rest of The Clash in 2003. He joined the Clash in 1977 and became famed for his drumming skills. He received his nickname owing to his resemblance to Mickey the Monkey from the Topper comic."
+    },
+    "Keenan": {
+        "id": "Keenan",
+        "name": "Maynard James Keenan",
+        "description": "Maynard James Keenan (born James Herbert Keenan; April 17, 1964) is an American singer, songwriter, philanthropist, record producer, and winemaker. He is best known as the singer and primary lyricist of the rock bands Tool, A Perfect Circle, and Puscifer. Having grown up in Ohio and Michigan, Keenan joined the U.S. Army after graduating from high school. After leaving the Army, he attended the Kendall College of Art and Design in Grand Rapids, Michigan. He relocated to Los Angeles in 1988 to pursue a career in interior design and set construction, and formed Tool with Adam Jones shortly thereafter.In addition to his music career, Keenan owns Merkin Vineyards and Caduceus Cellars in Arizona, where he resides. Since rising to fame, he has been noted as a recluse, although he does emerge to support charitable causes and for the occasional interview. He has also ventured into acting."
+    },
+    "Adam Jones": {
+        "id": "Adam Jones",
+        "name": "Adam Jones",
+        "description": "Adam Thomas Jones (born January 15, 1965) is an American musician and visual artist, best known as the guitarist for Tool. Jones has been rated the 75th-greatest guitarist of all time by the Rolling Stone and placed ninth in Guitar World's Top 100 Greatest Metal Guitarists. With experience in special effects and set design in the Hollywood film industry, Jones is also the director of the majority of Tool's music videos."
+    },
+    "Carey": {
+        "id": "Carey",
+        "name": "Danny Carey",
+        "description": "Daniel Edwin Carey (born May 10, 1961) is an American musician and songwriter. He is the drummer for the American rock band Tool. He has also contributed to albums by artists such as Zaum, Green Jellö, Pigface, Skinny Puppy, Adrian Belew, Carole King, Collide, Meat Puppets, Lusk, and the Melvins.He was ranked among the 100 greatest drummers of all time by Rolling Stone magazine, occupying the 26th position, in addition to being frequently considered by other magazines."
+    },
+    "Chancellor": {
+        "id": "Chancellor",
+        "name": "Justin Chancellor",
+        "description": "Justin Gunnar Walter Chancellor (born 19 November 1971) is an English musician best known as the bass player for rock band Tool since 1995. He was also the bassist of the band Peach. After settling in the US, along with his engagement in his musical projects, he and his wife Shelee Dykman Chancellor ran a store called Lobal Orning in Topanga, California, dedicated to music and literature that shaped and changed both of them. The store closed in 2008. He started M.T.Void music project with Piotr (Glaca) Mohammed from Sweet Noise."
+    },
+    "Kiedis": {
+        "id": "Kiedis",
+        "name": "Anthony Kiedis",
+        "description": "Anthony Kiedis (born November 1, 1962) is an American musician, singer, songwriter and rapper, best known as a founding member and lead vocalist of the rock band Red Hot Chili Peppers. Kiedis and his fellow band members were inducted into the Rock and Roll Hall of Fame in 2012."
+    },
+    "Flea": {
+        "id": "Flea",
+        "name": "Flea",
+        "description": "Michael Peter Balzary (born October 16, 1962), known professionally as Flea, is an American musician and actor. He is a founding member and bassist of the rock band Red Hot Chili Peppers (RHCP) and, along with vocalist Anthony Kiedis, the only member to appear on every RHCP album. Flea was born in Melbourne, Australia; his family moved to Rye, New York when he was four. After his parents divorced, Flea spent his childhood in the United States and Australia, before settling in California. In high school, he befriended singer Anthony Kiedis with whom he formed the Red Hot Chili Peppers in 1983. Flea is also a member of the supergroups Atoms for Peace, Antemasque, Pigface, and Rocket Juice & the Moon, and has played with acts including The Mars Volta, Johnny Cash, Tom Waits, Alanis Morissette, Young MC, Nirvana, What Is This?, Fear, and Jane's Addiction."
+    },
+    "Frusciante": {
+        "id": "Frusciante",
+        "name": "John Frusciante",
+        "description": "John Anthony Frusciante (born March 5, 1970) is an American musician. He has been the guitarist for the Red Hot Chili Peppers across three stints (1988–1992, 1998–2009, 2019–present), and has released 11 solo albums and 7 EPs, ranging in style from acoustic guitar to electronic music. He was inducted into the Rock and Roll Hall of Fame as a member of the Red Hot Chili Peppers in 2012. Rolling Stone named Frusciante among the greatest guitarists of all time. Frusciante joined the Chili Peppers at the age of 18 after the death of guitarist Hillel Slovak, and first appeared on their album Mother's Milk (1989). His second album with the band, Blood Sugar Sex Magik (1991), was their breakthrough success. Overwhelmed by the band's newfound popularity, he quit in 1992. He became a recluse and entered a period of heroin addiction, during which he released his first solo recordings: Niandra LaDes and Usually Just a T-Shirt (1994) and Smile from the Streets You Hold (1997). In 1998, he completed drug rehabilitation and rejoined the Chili Peppers, taking them to major success with their albums Californication (1999), By the Way (2002) and Stadium Arcadium (2006)."
+    },
+    "Smith": {
+        "id": "Smith",
+        "name": "Chad Smith",
+        "description": "Chad Gaylord Smith (born October 25, 1961) is an American musician who has been the drummer of the rock band Red Hot Chili Peppers since 1988. The group was inducted into the Rock and Roll Hall of Fame in 2012. Smith is also the drummer of the hard rock supergroup Chickenfoot, formed in 2008, and of the all-instrumental outfit Chad Smith's Bombastic Meatbats, formed in 2007. He worked with the Chicks on Taking the Long Way, an album that won five Grammy Awards in 2007."
+    },
+    "Nowell": {
+        "id": "Nowell",
+        "name": "Bradley Nowell",
+        "description": "Bradley James Nowell (February 22, 1968 – May 25, 1996) was an American musician and the lead singer and guitarist of the ska punk band Sublime. Born and raised in Belmont Shore, Long Beach, California, Nowell developed an interest in music at a young age. His father took him on a trip to Jamaica during his childhood years, which exposed him to reggae and dancehall music; he then gained a strong interest in rock music once he learned how to play guitar. Nowell played in various bands until forming Sublime with bassist Eric Wilson and drummer Bud Gaugh, whom he had met while attending California State University, Long Beach. In his lifetime, Sublime released the albums 40oz. to Freedom and Robbin' the Hood to critical and commercial success."
+    },
+    "Wilson": {
+        "id": "Wilson",
+        "name": "Eric Wilson",
+        "description": "Eric John Wilson (born February 21, 1970) is an American musician who is best known as the former bassist for Sublime (1988–1996). He was also bassist for Long Beach Dub Allstars (1997–2002), and Long Beach Shortbus, which was composed of several members of Long Beach Dub Allstars and Sublime. Since 2009, Wilson has been the bassist for Sublime with Rome, a musical collaboration between Wilson and singer and guitarist Rome Ramirez"
+    },
+    "Gaugh": {
+        "id": "Gaugh",
+        "name": "Bud Gaugh",
+        "description": "Floyd I. (Bud) Gaugh IV (born October 2, 1967) is an American drummer who played in the bands Sublime (1988–1996), Long Beach Dub Allstars (1997–2002), Eyes Adrift (2002–2003), Volcano (2004), and Sublime with Rome (2009–2011), as well as Phil & the Blanx, Del Mar, and Jelly of the Month Club."
+    },
+    "Hetfield": {
+        "id": "Hetfield",
+        "name": "James Hetfield",
+        "description": "James Alan Hetfield (born August 3, 1963) is an American musician. He is the lead vocalist, rhythm guitarist, co-founder, and a primary songwriter of heavy metal band Metallica. He is mainly known for his intricate rhythm playing, but occasionally performs lead guitar duties and solos both live and in studio. Hetfield co-founded Metallica in October 1981 after answering an advertisement by drummer Lars Ulrich in the Los Angeles newspaper The Recycler. Metallica has won nine Grammy Awards and released 11 studio albums, three live albums, four extended plays, and 24 singles. Hetfield is often regarded as one of the greatest heavy metal rhythm guitar players of all time."
+    },
+    "Ulrich": {
+        "id": "Ulrich",
+        "name": "Lars Ulrich",
+        "description": "Lars Ulrich (born 26 December 1963) is a Danish musician best known as the drummer and co-founder of American heavy metal band Metallica. The son and grandson respectively of tennis players Torben and Einer Ulrich, he played tennis in his youth and moved to Los Angeles at age 16 to train professionally. However, rather than playing tennis, Ulrich began playing drums. After publishing an advertisement in The Recycler, Ulrich met James Hetfield and formed Metallica. Along with Hetfield, Ulrich has songwriting credits on almost all of the band's songs, and the two of them are the only remaining original members of the band."
+    },
+    "Hammett": {
+        "id": "Hammett",
+        "name": "Kirk Hammett",
+        "description": "Kirk Lee Hammett (born November 18, 1962) is an American musician who has been the lead guitarist of heavy metal band Metallica since 1983. Prior to joining Metallica, he co-formed the thrash metal band Exodus in 1979. In 2003, Hammett, along with bandmate James Hetfield, was ranked 23rd on Rolling Stone's list of Greatest Guitarists of All Time. In 2009, Hammett was ranked number 15 in Joel McIver's book The 100 Greatest Metal Guitarists."
+    },
+    "Trujillo": {
+        "id": "Trujillo",
+        "name": "Robert Trujillo",
+        "description": "Roberto Agustín Miguel Santiago Samuel Trujillo Veracruz (born October 23, 1964) is an American musician who has been the bassist for heavy metal band Metallica since 2003. He first rose to prominence as the bassist of crossover thrash band Suicidal Tendencies from 1989 to 1995, while also collaborating with Suicidal Tendencies frontman Mike Muir for funk metal supergroup Infectious Grooves. After leaving Suicidal Tendencies, he performed with Ozzy Osbourne, Jerry Cantrell, and heavy metal band Black Label Society. Trujillo joined Metallica in 2003 and is the band's longest-serving bassist. He was inducted to the Rock and Roll Hall of Fame as a member of Metallica in 2009."
+    },
+    "White": {
+        "id": "White",
+        "name": "Jack White",
+        "description": "John Anthony White (born July 9, 1975) is an American musician who served as the lead singer, guitarist and primary songwriter of rock duo the White Stripes. White is widely credited as one of the key artists in the garage rock revival of the 2000s. He has won 12 Grammy Awards, and three of his solo albums have reached number one on the Billboard 200. Rolling Stone ranked him number 32 on its 2023 list of greatest guitarists of all time. David Fricke's 2010 list ranked him at number 17. In 2012, The New York Times called White -the coolest, weirdest and savviest rockstar of our time-."
+    },
+    "Meg White": {
+        "id": "Meg White",
+        "name": "Meg White",
+        "description": "Megan Martha White (born December 10, 1974) is an American former musician and singer, best known as the drummer of the duo The White Stripes. She is credited as one of the key artists in the garage rock revival of the 2000s, and has won various awards as a part of the White Stripes, including six Grammy Awards. Rolling Stone included her on its list of the (100 Greatest Drummers of All Time) in 2016."
+    },
+    "Sting": {
+        "id": "Sting",
+        "name": "Sting",
+        "description": "Gordon Matthew Thomas Sumner (born 2 October 1951), known as Sting, is an English musician and actor. He was the frontman, songwriter and bassist for new wave band the Police from 1977 until their breakup in 1986. He launched a solo career in 1985 and has included elements of rock, jazz, reggae, classical, new-age, and worldbeat in his music."
+    },
+    "Summers": {
+        "id": "Summers",
+        "name": "Andy Summers",
+        "description": "Andrew James Summers (born 31 December 1942) is an English guitarist who was a founding member of the rock band the Police. He was inducted into the Rock and Roll Hall of Fame as a band member in 2003. Summers has recorded solo albums, collaborated with other musicians, composed film scores, written fiction, and exhibited his photography in galleries."
+    },
+    "Copeland": {
+        "id": "Copeland",
+        "name": "Stewart Copeland",
+        "description": "Stewart Armstrong Copeland (born July 16, 1952) is an American musician and composer. He is best known for his work as the drummer of the English rock band the Police from 1977 to 1986, and again from 2007 to 2008. Before playing with the Police, he played drums with English rock band Curved Air from 1975 to 1976. As a composer, his work includes the films Wall Street (1987), Men at Work (1990), Good Burger (1997), and We Are Your Friends (2015); the television shows The Equalizer (1985–1989), The Amanda Show (1999–2002), and Dead Like Me (2003–2004); and video games such as the Spyro series (1998–present) and Alone in the Dark: The New Nightmare (2001). He has also written various pieces of ballet, opera, and orchestral music."
+    }
+}
+
+
+

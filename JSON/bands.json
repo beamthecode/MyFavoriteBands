@@ -1,0 +1,445 @@
+[
+    {
+        "id": "Led Zeppelin",
+        "bandMembers": [
+            {
+                "name": "Plant",
+                "role": "Lead Vocals"
+            },
+            {
+                "name": "Page",
+                "role": "Guitarist"
+            },
+            {
+                "name": "Jones",
+                "role": "Bassist"
+            },
+            {
+                "name": "Bonham",
+                "role": "Drummer"
+            }
+        ],
+        "albums": [
+           {
+               "name": "Led Zeppelin I",
+               "year": "1968"
+           },
+           {
+               "name": "Led Zeppelin II",
+               "year": "1969"
+           },
+           {
+               "name": "Led Zeppelin III",
+               "year": "1970"
+           },
+           {
+               "name": "Led Zeppelin IV",
+               "year": "1971"
+           }
+        ],
+        "description": "Led Zeppelin were an English rock band formed in London in 1968. The group comprised vocalist Robert Plant, guitarist Jimmy Page, bassist and keyboardist John Paul Jones, and drummer John Bonham. With a heavy, guitar-driven sound, they are cited as one of the progenitors of hard rock and heavy metal, although their style drew from a variety of influences, including blues and folk music. Led Zeppelin have been credited as significantly impacting the nature of the music industry, particularly in the development of album-oriented rock (AOR) and stadium rock.",
+        "badge": "Features four symbols. One for each band member. Moving clockwise the symbols are the word zoso, a circle with three semi-circles in it, a circle with a feather in it, and three rings intertwined."
+    },
+    {
+        "id": "Pink Floyd",
+        "bandMembers": [
+            {
+                "name": "Gilmour",
+                "role": "Guitarist, Lead Vocalist"
+            },
+            {
+                "name": "Waters",
+                "role": "Bassist, Lead Vocalist"
+            },
+            {
+                "name": "Mason",
+                "role": "Drummer"
+            },
+            {
+                "name": "Wright",
+                "role": "Pianist"
+            }
+        ],
+        "albums": [
+           {
+               "name": "The Dark Side of the Moon",
+               "year": "1973"
+           },
+           {
+               "name": "Wish You Were Here",
+               "year": "1975"
+           },
+           {
+               "name": "The Wall",
+               "year": "1979"
+           }
+        ],
+        "description": "Pink Floyd are an English rock band formed in London in 1965. Gaining an early following as one of the first British psychedelic groups, they were distinguished by their extended compositions, sonic experimentation, philosophical lyrics and elaborate live shows. They became a leading band of the progressive rock genre, cited by some as the greatest progressive rock band of all time.",
+        "badge": "The cover of Pink Floyd album Dark Side of the Moon. A triangular prism set against a black background with a ray of light refracting through it."
+    },
+    {
+        "id": "The Beatles",
+        "bandMembers": [
+            {
+                "name": "Lennon",
+                "role": "Guitarist, Lead Vocals"
+            },
+            {
+                "name": "McCartney",
+                "role": "Bassist, Lead Vocals"
+            },
+            {
+                "name": "Harrison",
+                "role": "Guitarist, Vocals"
+            },
+            {
+                "name": "Starr",
+                "role": "Drummer, Vocals"
+            }
+        ],
+        "albums": [
+           {
+               "name": "Revolver",
+               "year": "1966"
+           },
+           {
+               "name": "Sgt. Pepper's Lonely Hearts Club Band",
+               "year": "1967"
+           },
+           {
+               "name": "The White Album",
+               "year": "1968"
+           },
+           {
+               "name": "Abbey Road",
+               "year": "1969"
+           },
+           {
+               "name": "Let It Be",
+               "year": "1970"
+           }
+        ],
+        "description": "The Beatles were an English rock band formed in Liverpool in 1960, comprising John Lennon, Paul McCartney, George Harrison, and Ringo Starr. They are regarded as the most influential band of all time and were integral to the development of 1960s counterculture and the recognition of popular music as an art form. Rooted in skiffle, beat, and 1950s rock 'n' roll, their sound incorporated elements of classical music and traditional pop in innovative ways. The band also explored music styles ranging from folk and Indian music to psychedelia and hard rock. As pioneers in recording, songwriting, and artistic presentation, the Beatles revolutionised many aspects of the music industry and were often publicised as leaders of the era's youth and sociocultural movements.",
+        "badge": "The Beatles text in black font against a white background."
+    },
+    {
+        "id": "Nirvana",
+        "bandMembers": [
+            {
+                "name": "Cobain",
+                "role": "Guitarist, Lead Vocalist"
+            },
+            {
+                "name": "Novoselic",
+                "role": "Bassist"
+            },
+            {
+                "name": "Grohl",
+                "role": "Drummer"
+            }
+        ],
+        "albums": [
+           {
+               "name": "Nevermind",
+               "year": "1991"
+           },
+           {
+               "name": "In Utero",
+               "year": "1993"
+           }
+        ],
+        "description": "Nirvana was an American rock band formed in Aberdeen, Washington, in 1987. Founded by lead singer and guitarist Kurt Cobain and bassist Krist Novoselic, the band went through a succession of drummers, most notably Chad Channing, before recruiting Dave Grohl in 1990. Nirvana's success popularized alternative rock, and they were often referenced as the figurehead band of Generation X. Despite a short mainstream career spanning only 3 years, their music maintains a popular following and continues to influence modern rock culture.",
+        "badge": "Text spelling out Nirvana in yellow font with a smiley face below it that has its tongue sticking out."
+    },
+    {
+        "id": "Soundgarden",
+        "bandMembers": [
+            {
+                "name": "Cornell",
+                "role": "Guitarist, Lead Vocalist"
+            },
+            {
+                "name": "Thayil",
+                "role": "Guitarist"
+            },
+            {
+                "name": "Cameron",
+                "role": "Drummer"
+            },
+            {
+                "name": "Shepherd",
+                "role": "Bassist"
+            }
+        ],
+        "albums": [
+           {
+               "name": "Badmotorfinger",
+               "year": "1991"
+           },
+           {
+               "name": "Superunknown",
+               "year": "1994"
+           }
+        ],
+        "description": "Soundgarden was an American rock band formed in Seattle, Washington, in 1984 by singer and drummer Chris Cornell, lead guitarist Kim Thayil (both of whom are the only members to appear in every incarnation of the band), and bassist Hiro Yamamoto. Cornell switched to rhythm guitar in 1985, replaced on drums initially by Scott Sundquist, and later by Matt Cameron in 1986. Yamamoto left in 1990 and was replaced initially by Jason Everman and shortly thereafter by Ben Shepherd. The band dissolved in 1997 and re-formed in 2010. Following Cornell's death in 2017 and a year of uncertainty regarding the band's future, Thayil declared in October 2018 that Soundgarden had disbanded once again, though they did reunite in January 2019 for a one-off concert in tribute to Cornell.",
+        "badge": "Text spelling Soundgarden in red font. Underneath this text is a circle made of razorwire."
+    },
+    {
+        "id": "The Clash",
+        "bandMembers": [
+            {
+                "name": "Strummer",
+                "role": "Guitarist, Lead Vocalist"
+            },
+            {
+                "name": "Mick Jones",
+                "role": "Guitarist"
+            },
+            {
+                "name": "Simonon",
+                "role": "Bassist"
+            },
+            {
+                "name": "Headon",
+                "role": "Drummer"
+            }
+        ],
+        "albums": [
+           {
+               "name": "London Calling",
+               "year": "1980"
+           },
+           {
+               "name": "Combat Rock",
+               "year": "1982"
+           }
+        ],
+        "description": "The Clash were an English rock band formed in London in 1976 who were key players in the original wave of British punk rock. Billed as -The Only Band That Matters-, they also contributed to the post-punk and new wave movements that emerged in the wake of punk and employed elements of a variety of genres including reggae, dub, funk, ska, and rockabilly. For most of their recording career, the Clash consisted of lead vocalist and rhythm guitarist Joe Strummer, lead guitarist and vocalist Mick Jones, bassist Paul Simonon, and drummer Nicky (Topper) Headon.",
+        "badge": "The Clash text spelled out in white font against a black background."
+    },
+    {
+        "id": "Tool",
+        "bandMembers": [
+            {
+                "name": "Keenan",
+                "role": "Lead Vocalist"
+            },
+            {
+                "name": "Adam Jones",
+                "role": "Guitarist"
+            },
+            {
+                "name": "Carey",
+                "role": "Drummer"
+            },
+            {
+                "name": "Chancellor",
+                "role": "Bassist"
+            }
+        ],
+        "albums": [
+           {
+               "name": "Undertow",
+               "year": "1993"
+           },
+           {
+               "name": "AEnima",
+               "year": "1996"
+           },
+           {
+               "name": "Lateralus",
+               "year": "2001"
+           },
+           {
+               "name": "10,000 Days",
+               "year": "2006"
+           }
+        ],
+        "description": "Tool is an American rock band from Los Angeles. Formed in 1990, the group's line-up includes vocalist Maynard James Keenan, guitarist Adam Jones and drummer Danny Carey. Justin Chancellor has been the band's bassist since 1995, replacing its original bassist Paul D'Amour. Tool has won four Grammy Awards, performed worldwide tours, and produced albums topping the charts in several countries.",
+        "badge": "A wrench with the text Tool spelled out."
+    },
+    {
+        "id": "Red Hot Chili Peppers",
+        "bandMembers": [
+            {
+                "name": "Kiedis",
+                "role": "Lead Vocalist"
+            },
+            {
+                "name": "Flea",
+                "role": "Bassist"
+            },
+            {
+                "name": "Frusciante",
+                "role": "Guitarist"
+            },
+            {
+                "name": "Smith",
+                "role": "Drummer"
+            }
+        ],
+        "albums": [
+           {
+               "name": "Blood Sugar Sex Magik",
+               "year": "1991"
+           },
+           {
+               "name": "Californication",
+               "year": "1999"
+           },
+           {
+               "name": "By the Way",
+               "year": "2002"
+           },
+           {
+               "name": "Stadium Arcadium",
+               "year": "2006"
+           }
+        ],
+        "description": "Red Hot Chili Peppers, commonly abbreviated as RHCP or Chilli Peppers, are an American rock band formed in Los Angeles in 1982, comprising vocalist Anthony Kiedis, bassist Flea, drummer Chad Smith, and guitarist John Frusciante. Their music incorporates elements of alternative rock, funk, punk rock, hard rock, hip hop, and psychedelic rock. Their eclectic range has influenced genres such as funk metal, rap metal, rap rock, and nu metal. With over 120 million records sold worldwide, the Red Hot Chili Peppers are one of the best-selling bands of all time. They hold the records for most number-one singles (15), most cumulative weeks at number one (91) and most top-ten songs (28) on the Billboard Alternative Songs chart. They have won six Grammy Awards, were inducted into the Rock and Roll Hall of Fame in 2012, and in 2022 received a star on the Hollywood Walk of Fame.",
+        "badge": "Red Hot Chili Peppers spelled out in black font in a circle around a red asterick."
+    },
+    {
+        "id": "Sublime",
+        "bandMembers": [
+            {
+                "name": "Nowell",
+                "role": "Guitarist, Lead Vocalist"
+            },
+            {
+                "name": "Wilson",
+                "role": "Bassist"
+            },
+            {
+                "name": "Gaugh",
+                "role": "Drummer"
+            }
+        ],
+        "albums": [
+           {
+               "name": "40oz. to Freedom",
+               "year": "1992"
+           },
+           {
+               "name": "Sublime (Self-Titled)",
+               "year": "1996"
+           }
+        ],
+        "description": "Sublime was an American rock band from Long Beach, California, formed in 1988. The band's line-up, consistent throughout its duration, consisted of Bradley Nowell (vocals and guitar), Eric Wilson (bass), and Bud Gaugh (drums). Lou Dog, Nowell's dalmatian, was the mascot of the band. Nowell died of a heroin overdose in 1996, resulting in the band's breakup. In 1997, songs such as What I Got, Santeria, Wrong Way, Doin' Time, and April 29, 1992 (Miami) were released to U.S. radio.",
+        "badge": "A funky sun featuring skeletons and multiple colors."
+    },
+    {
+        "id": "Metallica",
+        "bandMembers": [
+            {
+                "name": "Hetfield",
+                "role": "Guitarist, Lead Vocalist"
+            },
+            {
+                "name": "Ulrich",
+                "role": "Drummer"
+            },
+            {
+                "name": "Hammett",
+                "role": "Guitarist"
+            },
+            {
+                "name": "Trujillo",
+                "role": "Bassist"
+            }
+        ],
+        "albums": [
+           {
+               "name": "Ride the Lightning",
+               "year": "1984"
+           },
+           {
+               "name": "Master of Puppets",
+               "year": "1986"
+           },
+           {
+               "name": "And Justice For All",
+               "year": "1988"
+           },
+           {
+               "name": "The Black Album",
+               "year": "1991"
+           }
+        ],
+        "description": "Metallica is an American heavy metal band. The band was formed in 1981 in Los Angeles by vocalist and guitarist James Hetfield and drummer Lars Ulrich, and has been based in San Francisco for most of its career. The band's fast tempos, instrumentals, and aggressive musicianship made them one of the founding (big four) bands of thrash metal, alongside Megadeth, Anthrax, and Slayer. Metallica's current lineup comprises founding members and primary songwriters Hetfield and Ulrich, longtime lead guitarist Kirk Hammett, and bassist Robert Trujillo. Guitarist Dave Mustaine, who formed Megadeth after being fired from Metallica, and bassists Ron McGovney, Cliff Burton, and Jason Newsted are former members of the band.",
+        "badge": "The text Metallica spelled out in black font against a white background."
+    },
+    {
+        "id": "The White Stripes",
+        "bandMembers": [
+            {
+                "name": "White",
+                "role": "Guitarist, Lead Vocalist"
+            },
+            {
+                "name": "Meg White",
+                "role": "Drummer"
+            }
+        ],
+        "albums": [
+           {
+               "name": "White Blood Cells",
+               "year": "2001"
+           },
+           {
+               "name": "Elephant",
+               "year": "2003"
+           },
+           {
+               "name": "Icky Thump",
+               "year": "2007"
+           }
+        ],
+        "description": "The White Stripes were an American rock duo from Detroit, formed in 1997. The group consisted of Jack White (songwriting, vocals, guitar, piano, and bass) and Meg White (drums, percussion, and vocals). They were a leading group of the 2000s indie rock and garage rock revival. The White Stripes used a low-fidelity approach to writing and recording. Their music featured a melding of garage rock and blues influences and a raw simplicity of composition, arrangement, and performance. The duo were also noted for their fashion and design aesthetic which featured a simple color scheme of red, white, and black—which was used on every album and single cover they released—as well as the duo's fascination with the number three. Their discography consists of six studio albums, two live albums, one extended play (EP), one concert film, one tour documentary, 26 singles, and 14 music videos.",
+        "badge": "A circle with a candy cane design in the middle featuring a swirl of red and white colors."
+    },
+    {
+        "id": "The Police",
+        "bandMembers": [
+            {
+                "name": "Sting",
+                "role": "Bassist, Lead Vocalist"
+            },
+            {
+                "name": "Summers",
+                "role": "Guitarist"
+            },
+            {
+                "name": "Copeland",
+                "role": "Drummer"
+            }
+        ],
+        "albums": [
+           {
+               "name": "Outlandos d'Amour",
+               "year": "1978"
+           },
+           {
+               "name": "Reggatta de Blanc",
+               "year": "1979"
+           },
+           {
+               "name": "Zenyatta Mondatta",
+               "year": "1980"
+           },
+           {
+               "name": "Ghost in the Machine",
+               "year": "1981"
+           },
+           {
+               "name": "Synchronicity",
+               "year": "1983"
+           }
+        ],
+        "description": "The Police were an English rock band formed in London in 1977. Within a few months of their first gig, the line-up settled as Sting (lead vocals, bass guitar, primary songwriter), Andy Summers (guitar) and Stewart Copeland (drums, percussion), and remained unchanged for the rest of the band's history. The Police became globally popular in the late 1970s and early to mid 1980s. Emerging in the British new wave scene, they played a style of rock influenced by punk, reggae, and jazz.",
+        "badge": "The Police spelled out in white font over a black background in the shape of a circle."
+    }
+]
+
+
+
